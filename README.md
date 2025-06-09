@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-This is a blog about life written by Srinidhi Srinivasasubbu.
+A blog about life written by Srinidhi Srinivasasubbu.
 
 ## Credits
 
