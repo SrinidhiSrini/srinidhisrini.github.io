@@ -3,4 +3,4 @@ title: "Introduction"
 layout: post
 ---
 
-Welcome to my blog! Here, I will be posting anything. I don't really have any set purpose for this goal, or anything in particular that I want to focus on, so there will be a mix of everything. 
+Welcome to my blog! Here, I will be posting about anything I find interesting, my projects, and other writings. I hope you enjoy reading what's posted and learn something new.
