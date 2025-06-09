@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Blog Introduction"
 layout: post
 ---
 
