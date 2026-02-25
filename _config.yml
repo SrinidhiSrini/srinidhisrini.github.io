@@ -6,6 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 mathjax: true
+excerpt_separator: ""
 
 # Layout
 
@@ -31,3 +32,4 @@ comments:
 
 plugins:
  - jekyll-feed
+
