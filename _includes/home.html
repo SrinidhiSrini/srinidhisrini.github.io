@@ -2,7 +2,11 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {{ post.excerpt | truncatewords: 50 }}
+    
+    {%- comment -%} 
+      We removed the line here that was displaying the post.excerpt. 
+    {%- endcomment -%}
+    
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
